@@ -22,4 +22,5 @@ Data was cleaned and modeled using a star schema.
 - Power BI
 - Power Query
 - DAX
-
+## Power BI File
+PBIX Download: https://drive.google.com/drive/folders/1domHxLCYGBUORDnoUsoKIWEBNw4APOlX?usp=sharing
