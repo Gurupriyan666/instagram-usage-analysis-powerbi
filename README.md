@@ -13,7 +13,7 @@ Data was cleaned and modeled using a star schema.
 - Ad reach and click effectiveness by country
 
 ## Data Model
-![Data Model](data_model.png)
+![Data Model](Instagram Usage, Engagement & Ad Performance DATA MODEL PREVIEW.png)
 
 ## Dashboard Preview
 ![Dashboard](dashboard.png)
