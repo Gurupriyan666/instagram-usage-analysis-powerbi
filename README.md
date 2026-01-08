@@ -16,7 +16,7 @@ Data was cleaned and modeled using a star schema.
 ![Data Model](DataModelPREVIEW.png)
 
 ## Dashboard Preview
-![Dashboard](dashboard.png)
+![Dashboard](DashboardPREVIEW.png)
 
 ## Tools Used
 - Power BI
